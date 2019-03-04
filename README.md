@@ -1,3 +1,3 @@
-IUG  
-Web Programming 2 - SICT 2308  
-ِِAssginment 1  
+<?php
+$GPI = array("programming2" =>"78" ,"english"=>"95","math"=>"85","web"=>"89");
+?>
